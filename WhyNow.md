@@ -1,4 +1,4 @@
-# Why Now.
+# Why Now
 
 Automated programming was a Holy Grail of the industry for decades.  Alas,
 the progress was not that magnificient.
@@ -11,7 +11,7 @@ in image classification, useful vector representations of words and concepts,
 generative-adversarial networks, etc.
 3. Amount of actually usable data increasing expotentially.
 
-# Competitive advantage.
+# Competitive advantage
 
 Known competitors approach the task either from pure Deep Learning perspective
 (end-to-end learning), or from neurophysiological/NLP/knowledge management

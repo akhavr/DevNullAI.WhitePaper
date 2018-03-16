@@ -1,4 +1,4 @@
-# Challenges.
+# Challenges
 
 To achieve industrial level quality, we need to increase our dataset by
 several orders of magnitude.  Also, existing NN architectures do not provide
@@ -8,7 +8,7 @@ potential architectures.
 This would require amount of GPU/TPU power that's far beyound the reach
 of our small research team.
 
-# Roadmap.
+# Roadmap
 
 To solve these challenges, we are planning to do an early launch of an
 ecosystem, where we can bring together:
