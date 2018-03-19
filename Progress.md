@@ -1,4 +1,4 @@
-# Current progress.
+# Current progress
 
 Team started working Sep 2017.
 
