@@ -19,3 +19,8 @@ ecosystem, where we can bring together:
 
 To incentivise each party we're launching an ERC20 token on the Ethereum
 network.
+
+
+- open ecosystem and other NN providers
+- distributed decentralized uncensorable network
+- starting off with a federated solution and moving towards decentralized where AI and data providers can keep their parts private (encrypted)
