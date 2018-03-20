@@ -24,6 +24,7 @@ to maintain and update.
 
 On the other hands, founder has 18 year experience of managing distributed
 software developers, that are mostly uncooperative, non-qualified, and simply
-lazy.  Due to daily root cause analysis and AARs, founders developed unique
-and detailed software development process, that could be transferred to
+lazy.  Due to daily root cause analysis and
+[AARs](https://en.wikipedia.org/wiki/After-action_review), founders developed
+unique and detailed software development process, that could be transferred to
 existing deep learning methods.
