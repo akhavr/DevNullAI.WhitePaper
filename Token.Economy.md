@@ -74,11 +74,12 @@ fill them with work, starting with the cheapest with best reputation.
 
 2. Token, used as a workers' stake.
 
-Until the launch of [Pandora](https://pandoraboxchain.ai/) we're resorting
-to a simpler way to manage the quality of the workers' output: we require
-them to hold a collateral in a smart contract and will ran a random crosscheck.
-If a worker would supply an invalid result, it will lose not just the payment,
-but a part of the collateral too.
+Until the launch of [Pandora](https://pandoraboxchain.ai/) we're
+resorting to a simpler way to manage the quality of the workers'
+output: we require them to hold a collateral in a smart contract and
+will run a random crosscheck.  If a worker would supply an invalid
+result, it will lose not just the payment, but a part of the
+collateral too.
 
 3. Token, used as a stake in a governance system.
 
