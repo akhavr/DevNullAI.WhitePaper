@@ -43,3 +43,26 @@ private (encrypted).
 
 Since this is mostly R&D, we can't provide any expected launch dates.  We would
 deploy updates as soon as they will be available in a quality shape.
+
+# Integrations
+
+Our goal is to make DevNullAI useful in a real life.
+
+Internally we envison a simple and generic framework for managing a work
+breakdown structure
+([WBS](https://en.wikipedia.org/wiki/Work_breakdown_structure)).
+
+> WBS is a hierarchical and incremental decomposition of the project
+> into phases, deliverables and work packages. It is a tree structure,
+> which shows a subdivision of effort required to achieve an objective
+
+Within this there would be a project, attached to a git repository and
+a list of tasks to be completed within the project.  AI would be
+called out to perform a task and it will either provide human
+developer a pull request with the suggested changes, or say that it
+doesn't know yet how to perform this task and ask for a breakdown into
+a smaller pieces.
+
+After implementation, this framework would be integrated into widely
+used project management system, like Trello, Asana, Jira, or private
+ones, like KavaHQ in 42 Coffee Cups.
