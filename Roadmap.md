@@ -63,6 +63,6 @@ developer a pull request with the suggested changes, or say that it
 doesn't know yet how to perform this task and ask for a breakdown into
 a smaller pieces.
 
-After implementation, this framework would be integrated into widely
-used project management system, like Trello, Asana, Jira, or private
-ones, like KavaHQ in 42 Coffee Cups.
+After implementation, this framework will have open API allowing to be
+integrated into widely used project management system, like Trello,
+Asana, Jira, or private ones, like KavaHQ in 42 Coffee Cups.
