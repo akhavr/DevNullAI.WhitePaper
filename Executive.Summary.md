@@ -2,8 +2,8 @@
 
 ## Purpose
 
-To develop and deploy scalable learning AI, specialized in custom software
-development.
+To create decentralized autonomous intelligent agent specialized in custom
+software development and available for hire for everybody.
 
 ## Problem
 
