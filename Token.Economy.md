@@ -67,7 +67,7 @@ Each provider makes their own decision on how the payment would be used.
 We initially plan to split the payment the following way:
 
 - 10% towards running the model to provide the requested result
-- 90% towards improvinig the model.
+- 90% towards improving the model.
 
 The amount of work to be performed depends on the price of workers: we will
 fill them with work, starting with the cheapest with best reputation.
