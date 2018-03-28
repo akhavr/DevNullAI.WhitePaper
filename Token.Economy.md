@@ -1,6 +1,8 @@
 # Token Economy
 
-C20 token, emulating PoS
+## Token supply
+
+ERC20 token, emulating PoS
 
 Total number: ~100mln (? have to recalculate)
 Team premine: 450'000 (450k)
@@ -45,3 +47,42 @@ This also could be changed using governance system
 References:
 1. https://www.dash.org/2017/09/07/dashdecentral.html
 2. https://drive.google.com/file/d/0B3HPNP-GDn7aRkVaV3dkVl9NS2M/view
+
+## Token usage
+
+Token would be used in three ways.
+
+1. Token, used as a payment for the development service.
+
+We're creating an open ecosystem for the AI developers.  Therefore,
+the request for the development won't be implemented as a call in a token
+smart contract, but instead it would be a call to a separate contract,
+deployed by the provider, for example our team.
+
+This call would take an ipfs hash with the task specification (source code,
+task to do) and a payment.
+
+Each provider makes their own decision on how the payment would be used.
+
+We initially plan to split the payment the following way:
+
+- 10% towards running the model to provide the requested result
+- 90% towards improvinig the model.
+
+The amount of work to be performed depends on the price of workers: we will
+fill them with work, starting with the cheapest with best reputation.
+
+2. Token, used as a workers' stake.
+
+Until the launch of [Pandora](https://pandoraboxchain.ai/) we're resorting
+to a simpler way to manage the quality of the workers' output: we require
+them to hold a collateral in a smart contract and will ran a random crosscheck.
+If a worker would supply an invalid result, it will lose not just the payment,
+but a part of the collateral too.
+
+3. Token, used as a stake in a governance system.
+
+If you're committed to the development of the DevNullAI, your voice has
+to be counted.  As mentioned above, holding 10k tokens would be required
+to run a masternode and have a formal vote towards proposals in
+the budgeting system.
