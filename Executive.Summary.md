@@ -28,18 +28,18 @@ point of view.
 
 First approach is mere brute force and requires huge computational resources
 and datasets.  Generated solutions would likely be non-interpretable.
-Second approach is non-differentiable, thus requiring lots of manual labour
+Second approach is non-differentiable [what does it mean--DN], thus requiring lots of manual labour
 to maintain and update.
 
 On the other hands, founder has 18 year experience of managing distributed
 software developers, that are mostly uncooperative, non-qualified, and
-simply lazy.  Due to daily root cause analysis and AARs, founders developed
+simply lazy. [DN: they also want to solve their favourite and more creative tasks: a lot of routine, standard development tasks cam male them frustrating] Due to daily root cause analysis and AARs, founders developed
 unique and detailed software development process, that could be transferred
 to existing deep learning methods.
 
 ## Current status
 
-Public proof of concept to be released during 2018q2
+Public proof of concept to be released during 2018q2 [DN:2018Q2]
 
 ## Current team
 
@@ -47,4 +47,4 @@ Andriy Khavryuchenko - Founder - https://www.linkedin.com/in/akhavr/
 Dimitri Nowicki - Senior AI Researcher - https://www.linkedin.com/in/dimitrinowicki/
 Alexey Korolyov - AI & NLP Scientist - https://www.linkedin.com/in/alkor/
 Olga Grytsenko - ML Researcher - https://www.linkedin.com/in/olga-g-a3bbb428/ 
-Igor Lushchyk - Senior DevOps - https://www.linkedin.com/in/igor-lushchyk/ 
+Igor Lushchyk - Senior DevOps - https://www.linkedin.com/in/igor-lushchyk/ [DN -- not only DevOps but lead engineer]
