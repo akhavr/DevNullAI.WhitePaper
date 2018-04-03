@@ -3,7 +3,7 @@
 ## Purpose
 
 To create decentralized autonomous intelligent agent specialized in custom
-software development and available for hire for everybody.
+software development and available for employment for everybody.
 
 ## Problem
 
