@@ -83,7 +83,6 @@ we're resorting to a simpler way to manage the quality of the workers'
 output: we require them to hold a collateral in a smart contract 
 and will run a random crosscheck.  If a worker would supply an invalid result, 
 it will lose not just the payment, but a part of the collateral too.
-
 3. Token, used as a stake in a governance system.
 
 If you're committed to the development of the DevNullAI, your voice 

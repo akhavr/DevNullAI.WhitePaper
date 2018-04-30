@@ -44,7 +44,6 @@ transferred to existing deep learning methods.
 Public proof of concept to be released during 2018q2.
 
 ## Current team
-
 * Andriy Khavryuchenko - Founder and CEO - 
 https://www.linkedin.com/in/akhavr/
 * Dimitri Nowicki - Senior AI Researcher - 
@@ -55,7 +54,3 @@ https://www.linkedin.com/in/alkor/
 https://www.linkedin.com/in/olga-g-a3bbb428/ 
 * Igor Lushchyk - Senior Big Data Engineer - 
 https://www.linkedin.com/in/igor-lushchyk/ 
-
-After implementation, this framework will have an open API. It will allow 
-integration into widely used project management systems, like Trello, Asana, 
-Jira or private ones, like KavaHQ in 42 Coffee Cups.
